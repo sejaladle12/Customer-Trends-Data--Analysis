@@ -16,10 +16,10 @@ Jupyter Notebook – Analysis workflow documentation
 
 ## Key Project Workflow
 1. Data Cleaning & Preparation (Python)
--Imported raw customer behavior dataset
--Handled missing values and duplicates
--Standardized column formats and transformed data types
--Performed exploratory data analysis to identify trends and anomalies
+- Imported raw customer behavior dataset
+- Handled missing values and duplicates
+- Standardized column formats and transformed data types
+- Performed exploratory data analysis to identify trends and anomalies
 
 2. Business Analysis Using SQL
 Solved multiple business-related queries such as:

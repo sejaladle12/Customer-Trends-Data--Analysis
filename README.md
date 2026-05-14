@@ -5,14 +5,14 @@ This project demonstrates the practical workflow followed by data analysts in bu
 ## Project Objective
 
 The main goal of this project is to study customer purchasing patterns, segment customer groups, and identify factors influencing buying behavior.
-
 Using analytical tools and visualization techniques, the project converts raw transactional data into meaningful insights for business decision-making.
 
+
 ## Tools & Technologies Used
-Python – Data cleaning, preprocessing, and exploratory data analysis
-SQL – Querying customer data and solving business problems
-Power BI – Interactive dashboard creation and KPI visualization
-Jupyter Notebook – Analysis workflow documentation
+- Python – Data cleaning, preprocessing, and exploratory data analysis
+- SQL – Querying customer data and solving business problems
+- Power BI – Interactive dashboard creation and KPI visualization
+= Jupyter Notebook – Analysis workflow documentation
 
 ## Project Workflow
 1. Data Cleaning & Preparation (Python)

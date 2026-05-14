@@ -45,9 +45,7 @@ Generated a project report highlighting:
 
 ## How to Use This Project
 1. Clone the repository
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+- git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git cd customer-trends-data-analysis-SQL-Python-PowerBI Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 2. This file contains:
 - Data Import

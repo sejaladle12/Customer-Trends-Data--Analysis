@@ -6,7 +6,7 @@ This project demonstrates the practical workflow followed by data analysts in bu
 
 The main goal of this project is to study customer purchasing patterns, segment customer groups, and identify factors influencing buying behavior.
 Using analytical tools and visualization techniques, the project converts raw transactional data into meaningful insights for business decision-making.
-![proejct img](https://github.com/sejaladle12/netflix_sql_project/blob/main/logo.png)
+![proejct img](https://github.com/sejaladle12/Customer-Trends-Data--Analysis/blob/main/Project%20WorkFlow%20img.png?raw=true)
 
 ## Tools & Technologies Used
 - Python – Data cleaning, preprocessing, and exploratory data analysis
